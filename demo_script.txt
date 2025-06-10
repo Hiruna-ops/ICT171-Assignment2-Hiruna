@@ -1,0 +1,7 @@
+Hi, my name is Hiruna Randika Perera, and this is my ICT171 Assignment 2 submission.
+
+This project demonstrates the setup of an OpenVPN server on an AWS EC2 instance. I chose this project because VPNs are a key part of secure remote access, and provides secure and encrypted access to the internet.
+
+I launched an EC2 instance, connected via SSH, and installed OpenVPN using a trusted script. I then generated a client config file, downloaded it using SCP, and tested it on my Windows machine using OpenVPN GUI.
+
+The connection was successful, and the project files are uploaded to GitHub including the script and documentation. Thank you.
