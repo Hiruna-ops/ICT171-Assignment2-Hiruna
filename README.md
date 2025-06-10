@@ -44,6 +44,7 @@ File Structure
 
 Video Link
 
+Watch the project walkthrough here: https://drive.google.com/file/d/1Ed6iQe1JzxoWtfaUkhtCRfYKg_dWauA-/view?usp=sharing
 
 References
 
